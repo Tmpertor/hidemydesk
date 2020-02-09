@@ -13,5 +13,11 @@ You will need to enter your mac password when asked.
 
 To run hidemydesk run the newly created program called hidemydesk.
 
-
 #### No files will be harmed!
+
+
+
+## From
+![Bildschirmfoto 1](https://user-images.githubusercontent.com/36562445/74104164-5c876500-4b52-11ea-8d76-386889ecdaff.png)
+## To
+![Bildschirmfoto 2](https://user-images.githubusercontent.com/36562445/74104166-5e512880-4b52-11ea-82ff-5eb473ad87f7.png)
