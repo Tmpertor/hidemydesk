@@ -1,0 +1,28 @@
+#!/bin/sh
+
+value=$(defaults read com.apple.Finder CreateDesktop 2>&1)
+#echo "$value"
+
+if [ "$value" = "true" ] ; then
+defaults write com.apple.finder CreateDesktop false
+killall Finder
+echo "Desktop hidden."
+elif [ "$value" = "false" ] ; then
+defaults write com.apple.finder CreateDesktop true
+killall Finder
+echo "Desktop visible."
+elif [[ "$value" =~ .*"not extist".* ]] ; then
+defaults write com.apple.finder CreateDesktop false
+killall Finder
+echo "Desktop hidden."
+else
+defaults write com.apple.finder CreateDesktop true
+killall Finder
+echo "Sucessfully setup."
+defaults write com.apple.finder CreateDesktop false
+killall Finder
+echo "Desktop hidden."
+echo "\nMade by Taguar258"
+fi
+
+osascript -e "tell application \"System Events\" to keystroke \"w\" using command down"
