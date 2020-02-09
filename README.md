@@ -12,3 +12,6 @@ brew install git ; git clone https://github.com/Taguar258/hidemydesk ; cd hidemy
 You will need to enter your mac password when asked.
 
 To run hidemydesk run the newly created program called hidemydesk.
+
+
+#### No files will be harmed!
