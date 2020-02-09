@@ -26,4 +26,5 @@ echo "Desktop hidden."
 echo "\nMade by Taguar258"
 fi
 
+osascript -e "tell application \"System Events\" to set visible of application process  \"Terminal\" to true"
 osascript -e "tell application \"System Events\" to keystroke \"w\" using command down"
