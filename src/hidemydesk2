@@ -1,4 +1,5 @@
 #!/bin/sh
+osascript -e "tell application \"System Events\" to set visible of application process  \"Terminal\" to false"
 
 value=$(defaults read com.apple.Finder CreateDesktop 2>&1)
 #echo "$value"
