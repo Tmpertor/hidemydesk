@@ -1,3 +1,3 @@
 #!/bin/sh
 rm /usr/local/bin/hidemydesk
-rm /Applications/hidemydesk
+rm -rf /Applications/hidemydesk
