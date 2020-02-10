@@ -2,8 +2,9 @@
 Hide all your desktop files whenever you want in mac.
 
 ## Installation
-First of you need to install brew, you can do this by visiting their website. (brew.sh)
+First of you need to download hidemydesk, you can do this by clicking <a href="https://github.com/Taguar258/hidemydesk/releases/download/1.1/hidemydesk.dmg">here</a>.
 
+Just double click the installation file and continue with the installation.
 
 You will need to enter your mac password when asked.
 
