@@ -6,4 +6,4 @@ if [ "$EUID" -ne 0 ]
 fi
 
 rm /usr/local/bin/hidemydesk
-rm -rf /Applications/hidemydesk
+rm -rf /Applications/hidemydesk.app
