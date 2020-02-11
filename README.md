@@ -1,6 +1,8 @@
 # hidemydesk
 Hide all your desktop files whenever you want in mac.
 
+### <a href="https://github.com/Taguar258/hidemydesk/releases/download/1.1/hidemydesk.dmg">Download</a>
+
 ## Installation
 First of you need to download hidemydesk, you can do this by clicking <a href="https://github.com/Taguar258/hidemydesk/releases/download/1.1/hidemydesk.dmg">here</a>.
 
