@@ -12,7 +12,7 @@ You will need to enter your mac password when asked.
 
 To run hidemydesk run the newly created program called hidemydesk.
 
-To uninstall it run ```sudo ./uninstall.sh```.
+To uninstall it run ```sudo ./uninstall.sh``` or the uninstaller application.
 
 _Tip: Put the application to the autostart and enjoy clean startups._
 
