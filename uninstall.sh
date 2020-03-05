@@ -5,5 +5,7 @@ if [ "$EUID" -ne 0 ]
   exit
 fi
 
+defaults write com.apple.finder CreateDesktop true
+killall Finder
 rm /usr/local/bin/hidemydesk
 rm -rf /Applications/hidemydesk.app
