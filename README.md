@@ -17,7 +17,7 @@ _Tip: Put the application to the autostart and enjoy clean startups._
 #### No files will be harmed!
 
 ## In case of problems:
-Insert ```defaults write com.apple.finder CreateDesktop true ; killall Finder``` into the application "Terminal" and press enter.
+Uninstall the programm using the uninstaller.
 
 ## From
 ![Bildschirmfoto 1](https://user-images.githubusercontent.com/36562445/74104164-5c876500-4b52-11ea-8d76-386889ecdaff.png)
