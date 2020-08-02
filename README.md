@@ -1,5 +1,5 @@
 # hidemydesk
-Hide all your desktop files whenever you want in mac.
+Hide all your desktop files whenever you want. (OSX)
 
 ### <a href="https://github.com/Taguar258/hidemydesk/releases/download/1.1/hidemydesk.dmg">Download</a>
 
